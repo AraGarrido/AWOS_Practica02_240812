@@ -13,3 +13,8 @@ Esta práctica será desarrollada con estructura de ramales, para el estudiente 
 </p>
 
 
+### Tabla de Ejercicios
+
+|No.|Descripción|Potenciador|Estatus|
+|--|--|--|--|
+|1.| Declaracion de Variables | 7 | Finalizado |
