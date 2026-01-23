@@ -146,7 +146,7 @@ const recoverPassword = function(email, Callback)
     const recoveryCode= Math.floor(1000000 + Math.random()*900000)
 
     console.log(`
-        ========================================
+    ========================================
     Solicitud de recuperación recibida 
     Correo del usuario solicitante: ${email}
     Generando código de recuperación...
